@@ -1,3 +1,3 @@
 ## WP regenrek Child
 
-Child Theme for wpregenrek-roots
+Child Theme for wpregenrek-roots 
